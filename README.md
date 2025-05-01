@@ -1,4 +1,4 @@
-# 🧱 Mini2.5DEngine – Lightweight Graphics Engine in Motion (Screenshots below)
+# 🧱 Mini2.5DEngine – Lightweight Graphics Engine in Motion (Screenshots are below)
 
 **A compact 2.5D graphics engine designed to simulate perspective and motion.**  
 Experience real-time rendering through an interactive demo game: control a ball, catch others flying at you from the distance, and test the engine’s depth simulation.
